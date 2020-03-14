@@ -1,2 +1,2 @@
-# deeplearging
+# deeplearning
 deeplearning
